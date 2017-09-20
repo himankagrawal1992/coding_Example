@@ -1,0 +1,8 @@
+1. JAR vs WAR vs EAR
+2. Web applications Vs Enterprise application
+3. Web server and application server
+4. In how many ways we can run java program.
+5. classpath vs path
+6. JDK Vs JRE VS JVM
+7. Difference between Java vs javaw vs javaws
+8. How to create executable jar file
